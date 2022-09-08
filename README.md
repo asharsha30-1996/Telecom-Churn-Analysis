@@ -89,7 +89,7 @@ The ‘churn’ phase: In this phase, the customer is said to have churned. You 
 
  
 
-In this case, since you are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
+In this case, we are working over a four-month window, the first two months are the ‘good’ phase, the third month is the ‘action’ phase, while the fourth month is the ‘churn’ phase.
 
  
 
